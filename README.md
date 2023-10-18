@@ -6,9 +6,7 @@ Part I: Hardware: In this part, you will build a computer system from the ground
 Part II: Software: In this part, you will write low-level programs in the machine language of the computer you built in Part I. You will then build a high-level programming language and a compiler for it, and write programs in the high-level language.
 Repository Contents
 This repository contains the completed project files for both parts of the course. The projects are organized into directories for each week of the course. Each directory contains a README file that explains the project and how to run it.
-Getting Started
-To get started with the projects, clone this repository to your local machine:
-git clone https://github.com/your-username/nand2tetris.git
+
 
 Then, navigate to the directory for the project you want to run and follow the instructions in the README file.
 Acknowledgments
